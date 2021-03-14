@@ -1,1 +1,1 @@
-new test file
+test = “Test”
